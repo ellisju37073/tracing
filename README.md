@@ -133,6 +133,3 @@ ruff check src tests
 mypy src
 ```
 
-## License
-
-MIT
